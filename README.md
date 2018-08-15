@@ -3,9 +3,9 @@ Epic Game jam 16-21 août 2018
 
 Team
 =====
--Fany
--Ophélie Pelloux-Prayer
--Vincent Nesme
+- Fany
+- Ophélie Pelloux-Prayer
+- Vincent Nesme
 
 How the project have been created?
 ==================================
