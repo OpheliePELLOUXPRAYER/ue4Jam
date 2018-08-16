@@ -18,4 +18,4 @@ Add, commit and push it in git.
 How clone the project ?
 ========================
 Use: git clone https://github.com/OpheliePELLOUXPRAYER/ue4Jam.git
-And simplest open the .uproject and accepte to generate the folder. 
+And simplest open the .uproject and accept to generate the folder. 
