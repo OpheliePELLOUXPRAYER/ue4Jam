@@ -3,7 +3,7 @@ Epic Game jam 16-21 août 2018
 
 Team
 =====
-- Fany
+- Fany Passet
 - Ophélie Pelloux-Prayer
 - Vincent Nesme
 
